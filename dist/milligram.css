@@ -42,8 +42,8 @@ button,
 input[type='button'],
 input[type='reset'],
 input[type='submit'] {
-  background-color: #73d700;
-  border: 0.1rem solid #73d700;
+  background-color: #488500;
+  border: 0.1rem solid #488500;
   border-radius: .4rem;
   color: #fff;
   cursor: pointer;
@@ -93,8 +93,8 @@ input[type='reset'][disabled]:focus,
 input[type='reset'][disabled]:hover,
 input[type='submit'][disabled]:focus,
 input[type='submit'][disabled]:hover {
-  background-color: #73d700;
-  border-color: #73d700;
+  background-color: #488500;
+  border-color: #488500;
 }
 
 .button.button-outline,
@@ -103,7 +103,7 @@ input[type='button'].button-outline,
 input[type='reset'].button-outline,
 input[type='submit'].button-outline {
   background-color: transparent;
-  color: #73d700;
+  color: #488500;
 }
 
 .button.button-outline:focus, .button.button-outline:hover,
@@ -130,7 +130,7 @@ input[type='reset'].button-outline[disabled]:hover,
 input[type='submit'].button-outline[disabled]:focus,
 input[type='submit'].button-outline[disabled]:hover {
   border-color: inherit;
-  color: #73d700;
+  color: #488500;
 }
 
 .button.button-clear,
@@ -140,7 +140,7 @@ input[type='reset'].button-clear,
 input[type='submit'].button-clear {
   background-color: transparent;
   border-color: transparent;
-  color: #73d700;
+  color: #488500;
 }
 
 .button.button-clear:focus, .button.button-clear:hover,
@@ -166,7 +166,7 @@ input[type='reset'].button-clear[disabled]:focus,
 input[type='reset'].button-clear[disabled]:hover,
 input[type='submit'].button-clear[disabled]:focus,
 input[type='submit'].button-clear[disabled]:hover {
-  color: #73d700;
+  color: #488500;
 }
 
 code {
@@ -180,7 +180,7 @@ code {
 
 pre {
   background: #f4f5f6;
-  border-left: 0.3rem solid #73d700;
+  border-left: 0.3rem solid #488500;
 }
 
 pre > code {
@@ -227,7 +227,7 @@ input[type='text']:focus,
 input[type='url']:focus,
 textarea:focus,
 select:focus {
-  border-color: #73d700;
+  border-color: #488500;
   outline: 0;
 }
 
@@ -452,7 +452,7 @@ input[type='radio'] {
 }
 
 a {
-  color: #73d700;
+  color: #488500;
   text-decoration: none;
 }
 
